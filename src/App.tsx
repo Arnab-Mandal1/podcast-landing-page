@@ -1,4 +1,4 @@
-import React, { useState, useEffect } from 'react';
+import React, { useState } from 'react';
 // Removed lucide-react imports
 // import { PlayCircle, Podcast, Speaker, Users, ExternalLink, Linkedin, Twitter, Instagram, ArrowLeft } from 'lucide-react';
 
